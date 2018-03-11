@@ -1,0 +1,18 @@
+3/11/2018 11:26:39 AM: Service started
+3/11/2018 11:26:46 AM: Service stopped
+3/11/2018 11:33:54 AM: Service started
+3/11/2018 11:37:04 AM: Mail sent successfully!
+3/11/2018 11:55:38 AM: Service stopped
+3/11/2018 11:59:32 AM: Service started
+3/11/2018 12:00:15 PM: Service stopped
+3/11/2018 12:01:23 PM: Service started
+3/11/2018 12:03:04 PM: Mail sent successfully!
+3/11/2018 12:30:42 PM: Service stopped
+3/11/2018 1:19:01 PM: Service started
+3/11/2018 1:24:03 PM: Service stopped
+3/11/2018 1:28:43 PM: Service started
+3/11/2018 1:42:06 PM: Service stopped
+3/11/2018 1:52:31 PM: Service started
+3/11/2018 1:55:03 PM: Mail sent successfully!
+3/11/2018 1:55:04 PM: Mail sent successfully!
+3/11/2018 1:59:06 PM: Service stopped

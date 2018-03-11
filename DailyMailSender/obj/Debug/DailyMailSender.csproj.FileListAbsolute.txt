@@ -1,0 +1,9 @@
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\bin\Debug\DailyMailSender.exe.config
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\bin\Debug\DailyMailSender.exe
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\bin\Debug\DailyMailSender.pdb
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\obj\Debug\DailyMailSender.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\obj\Debug\DailyMailSender.ProjectInstaller.resources
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\obj\Debug\DailyMailSender.csproj.GenerateResource.Cache
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\obj\Debug\DailyMailSender.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\obj\Debug\DailyMailSender.exe
+C:\Users\Dell\Source\Repos\DailyMailSender\DailyMailSender\obj\Debug\DailyMailSender.pdb

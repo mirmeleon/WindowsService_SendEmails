@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyMailSender", "DailyMailSender\DailyMailSender.csproj", "{DCE3FC85-E7A3-41E9-81AC-0595262F8FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE3FC85-E7A3-41E9-81AC-0595262F8FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE3FC85-E7A3-41E9-81AC-0595262F8FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE3FC85-E7A3-41E9-81AC-0595262F8FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE3FC85-E7A3-41E9-81AC-0595262F8FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CBC601-824D-469D-912B-76C1B0BC2808}
+	EndGlobalSection
+EndGlobal
